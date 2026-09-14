@@ -1,0 +1,9 @@
+{
+  "name": "Gold Trading Assistant",
+  "short_name": "Gold Assistant",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#090b0e",
+  "theme_color": "#090b0e",
+  "icons": []
+}
